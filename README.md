@@ -4,7 +4,7 @@ Automate the generation of financial reports using Excel macros.
 
 ## Overview
 
-This tool simplifies the process of generating financial reports by automating repetitive tasks in Microsoft Excel.
+This tool simplifies the process of generating financial reports by automating the data retriving from the company ERP system that's read through a combintation of tables (facts and dimentiontals) that result in a SQL View.
 
 ## Features
 
@@ -26,10 +26,9 @@ This tool simplifies the process of generating financial reports by automating r
 ## Getting Started
 
 1. Download the repository.
-2. Open the Excel file (`FinancialReportingAutomationTool.xlsm`) in a compatible environment.
-3. Ensure that the necessary data connections are available.
-4. Enable macros if prompted.
-5. Run the macro `Run_PnLs` to generate financial reports.
+2. Ensure that the necessary data connections are available.
+3. Enable macros if prompted.
+4. Run the macro `Run_PnLs` to generate financial reports.
 
 ## Notes
 
