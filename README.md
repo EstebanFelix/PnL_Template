@@ -32,9 +32,4 @@ This tool simplifies the process of generating financial reports by automating t
 
 ## Notes
 
-- The Excel file is configured for a specific data model and SQL view. Running the tool on a different machine may require adjusting connections and configurations.
-- For assistance with setting up the required dependencies, refer to [Documentation Link] or contact the project contributors.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+- The Excel file is configured for a specific data model and SQL view. Running the tool on a different machine/excel file may require adjusting connections and configurations.
